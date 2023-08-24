@@ -1,5 +1,5 @@
 export const WorkData = [
-    {
+    /*{
         company: "Google IT Support Certificate" ,
         designation: "Google IT Support",
         dateJoining: "2022",
@@ -30,5 +30,5 @@ export const WorkData = [
         dateEnd: "2023",
         companyLogo:"https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png",
         work:"I have proficient in managing and maintaining Azure infrastructure and services also experience with Azure virtual machines, storage, networking, and security.I have knowledge of Azure identity and access management, monitoring, and governance."
-    }
+    }*/
 ]

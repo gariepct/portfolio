@@ -1,23 +1,18 @@
 export const SocialData=[
-    
+
     {
         platform:"Github",
         icon: require("../../assets/icons/github.png"),
-        link:"https://github.com/ThantZinPhyo-Slark",
+        link:"https://github.com/gariepct",
+    },
+    {
+        platform:"Gitlab",
+        icon: require("../../assets/icons/gitlab.png"),
+        link:"https://gitlab.com/gariepct01",
     },
     {
         platform:"Linkedin",
         icon: require("../../assets/icons/linkedin.png"),
-        link:"https://www.linkedin.com/in/thantzinphyo11/",
-    },
-    {
-        platform:"Twitter",
-        icon: require("../../assets/icons/twitter.png"),
-        link: "https://twitter.com/ThantZinPhyoSLK",
-    },
-    {
-        platform:"Facebook",
-        icon: require("../../assets/icons/facebook.png"),
-        link:"https://www.facebook.com/thantzin.phyo.18",
+        link:"https://www.linkedin.com/in/connor-gariepy-172b97262/",
     },
 ];

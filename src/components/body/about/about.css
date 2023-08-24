@@ -8,13 +8,14 @@
 }
 
 .picture {
-    height: 420px;
+    height: 210px;
+    border-radius: 50%;
 }
 .about-info {
     font-size: 24px;
 }
 .info-name {
-    color: blue;
+    color: rgb(112, 163, 221);
     font-size: 32px;
 }
 

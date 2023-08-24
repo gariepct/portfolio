@@ -6,13 +6,13 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-        Hello There ✋,I am,
-         <br /> <span className="info-name">Thant Zin Phyo</span>.
-         <br /> I have experience working with Azure Cloud Platform. 
+        Hello There ✋, I am,
+         <br /> <span className="info-name">Connor Gariepy</span>.
+         <br /> I have experience working as a full-stack software engineer.
         </div>
         <div className="about-photo">
-          <img 
-            src={require("../../../assets/coding.png")}
+          <img
+            src={require("../../../assets/connor.jpg")}
             className="picture"
           />
         </div>
