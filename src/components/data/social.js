@@ -13,6 +13,6 @@ export const SocialData=[
     {
         platform:"Linkedin",
         icon: require("../../assets/icons/linkedin.png"),
-        link:"https://www.linkedin.com/in/connor-gariepy-172b97262/",
+        link:"https://www.linkedin.com/in/connor-gariepy/",
     },
 ];
