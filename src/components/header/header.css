@@ -7,7 +7,7 @@
     align-items: center;
 }
 .menu{
-    background-color: white;
+    background-color: rgb(238, 241, 255);
     display: flex;
     flex: 1;
     justify-content: flex-end;

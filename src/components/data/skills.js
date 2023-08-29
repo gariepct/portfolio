@@ -73,10 +73,6 @@ export const SkillsData = [
         icon: <i className="devicon-react-original colored"></i>
       },
       {
-        name: "React Hooks",
-        icon: ""
-      },
-      {
         name: "Redux Toolkit",
         icon: <i class="devicon-redux-original colored"></i>
       },
